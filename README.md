@@ -1,4 +1,5 @@
 I'm Jeongho Kim
+
 Amis EV platform Project Manager
 
 
